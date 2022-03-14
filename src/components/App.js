@@ -4,13 +4,13 @@ import Container from "./Container";
 function App() {
   return (
     <div className="App">
-      <Container header="Example header" direction="horizontal">
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
-        <div>This is an example!</div>
+      <Container header="Example header" direction="vertical">
+        <div>T</div>
+        <div>This</div>
+        <div>This is</div>
+        <div>This is an</div>
+        <div>This is an ex</div>
+        <div>This is an exam</div>
         <div>This is an example!</div>
       </Container>
       <Container header="Example header" textPosition="center">
